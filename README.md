@@ -3,6 +3,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ChrisMalabanan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ChrisMalabanan&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisMalabanan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ChrisMalabanananuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ChrisMalabanan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
