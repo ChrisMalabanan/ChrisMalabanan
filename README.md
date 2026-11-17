@@ -1,6 +1,6 @@
 #  Hi, I'm Chris!  
 
-**3rd year BSIT student at the Polytechnic University of the Philippines**  
+**4th year BSIT student at the Polytechnic University of the Philippines**  
 Still learning, improving every day, and fueled by motivation 
 
 ---
